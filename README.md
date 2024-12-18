@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ALTRIN43
--  I am AI UNDERGRAD in SRM University KTR
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning DBMS
-- ⚡ " Transforming Raw Data's into Actionable Intelligence :) "
+- __Hi, I’m @ALTRIN43_
+- __am AI UNDERGRAD in SRM University KTR_
+- __I’m interested in Programming_
+- __I’m currently learning DBMS_
+- ⚡ **" __Transforming Raw Data's into Actionable Intelligence :)_ "**
 
 <!---
 ALTRIN43/ALTRIN43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
