@@ -1,5 +1,5 @@
-- _Hi, I’m @ALTRIN43_
-- _am AI UNDERGRAD in SRM University KTR_
+- _Hi, I’m @ALTRIN JESURAJ_
+- _AI UNDERGRAD in SRM University KTR_
 - _I’m interested in Programming_
 - _I’m currently learning DBMS_
 - **⚡** **"_Transforming Raw Data's into Actionable Intelligence :)_"**
