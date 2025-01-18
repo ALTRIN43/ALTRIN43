@@ -1,4 +1,4 @@
-- _Hi, I’m @ALTRIN JESURAJ_
+- _Hi, I’m @ALTRIN JESURAJ_✨
 - _AI UNDERGRAD in SRM University KTR_
 - _I’m interested in Programming_
 - _I’m currently learning DBMS_
