@@ -1,7 +1,7 @@
 - _Hi, I’m @ALTRIN JESURAJ✨_
 - _AI UNDERGRAD in SRM University KTR_
 - _I’m interested in Programming_
-- _I’m currently learning DBMS_
+- _I’m currently learning DBMS_ 
 - **⚡** **"_Transforming Raw Data's into Actionable Intelligence :)_"**
 
 <!---
