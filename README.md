@@ -47,9 +47,9 @@
 ---
 
 ## 📫 **Connect with Me**  
-🌐 **LinkedIn:** [[linkedin.com/in/altrinjesura](https://www.linkedin.com/in/altrin-jesuraj-515043315/)j]
+🌐 **LinkedIn:** [[linkedin.com/in/altrinjesura](https://www.linkedin.com/in/altrin-jesuraj-515043315/)j]<br>
 📧 **Email:** altrinjesuraj@gmail.com 
-🌍 **Portfolio:** (Add your portfolio link here if available)  
+<!--🌍 **Portfolio:** (Add your portfolio link here if available)-->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/altrinjesuraj">
