@@ -26,16 +26,17 @@
 ✅ **Participating in DIGITHON 2.0 Hackathon** 🔥  
 
 ---
-  
+   
 ## 🚀 **GitHub Stats & Activity**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altrinjesuraj&show_icons=true&theme=radical" alt="GitHub Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=altrinjesuraj&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altrinjesuraj&layout=compact&theme=radical" alt="Top Languages" height="180px">
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=altrinjesuraj&theme=radical" alt="GitHub Streak">
 </p>
+
 
 ---
 
