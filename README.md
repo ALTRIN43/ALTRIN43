@@ -61,14 +61,13 @@
   <a href="https://www.linkedin.com/in/altrinjesuraj">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/altrinjesuraj">
+  <a href="https://github.com/ALTRIN43">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
 ---
-
-🔥 **"Data is the new oil, and I am refining it!"** 🔥  
+**"Giving life to data"** 🔥  
 
 
 <!---
