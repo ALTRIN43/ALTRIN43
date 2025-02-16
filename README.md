@@ -47,7 +47,7 @@
 
 ## 🔧 **Tech Stack & Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,sqlite,mysql,tensorflow,pandas,numpy,scikit-learn,excel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,r,java,sqlite,mysql,tensorflow,pandas,numpy,scikit-learn,excel,git,github,vscode" />
 </p>
 
 ---
