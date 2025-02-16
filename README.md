@@ -23,7 +23,7 @@
 ✅ **Completed "Data Analysis with Python" by IBM on Coursera**  
 ✅ **Extracted, Cleaned, Visualized Data & Built Refinement & Evaluation Models**  
 ✅ **Completed Peer-Graded Assignments & Earned a Digital Badge from Credly** 🏅  
-✅ **Enrolled in Competition in Kaggle Platform** 🔥  
+✅ **Enrolled a Competition in Kaggle Platform** 🔥  
 
 ---
    
