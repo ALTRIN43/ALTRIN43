@@ -29,8 +29,8 @@
    
 ## 🚀 **GitHub Stats & Activity**
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ALTRIN43&show_icons=true&theme=radical&count_private=true)](https://github.com/AltrinJesuraj)
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ALTRIN43&layout=compact&theme=radical)](https://github.com/AltrinJesuraj)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ALTRIN43&show_icons=true&theme=radical&count_private=true)](https://github.com/ALTRIN43)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ALTRIN43&layout=compact&theme=radical)](https://github.com/ALTRIN43)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALTRIN43&theme=radical)](https://github.com/ALTRIN43)
 
