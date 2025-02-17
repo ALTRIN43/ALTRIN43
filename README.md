@@ -32,11 +32,11 @@
 [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ALTRIN43&show_icons=true&theme=radical&count_private=true)](https://github.com/AltrinJesuraj)
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ALTRIN43&layout=compact&theme=radical)](https://github.com/AltrinJesuraj)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALTRIN43&theme=radical)](https://github.com/AltrinJesuraj)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALTRIN43&theme=radical)](https://github.com/ALTRIN43)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ALTRIN43&theme=radical)](https://github.com/AltrinJesuraj)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ALTRIN43&theme=radical)](https://github.com/ALTRIN43)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ALTRIN43&theme=radical)](https://github.com/AltrinJesuraj)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ALTRIN43&theme=radical)](https://github.com/ALTRIN43)
 
 <img src="https://github-contribution-graph.ezndev.com/?username=ALTRIN43&theme=dracula" />
 
