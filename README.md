@@ -4,8 +4,10 @@
 ---
   
 <p align="center">
-  <img src="https://media.giphy.com/media/3ov9k9AyzTi3q0bTF6/giphy.gif" width="300px">
+  <img src="https://media4.giphy.com/media/LR5ZBwZHv02lmpVoEU/giphy.gif" alt="Data Science GIF" width="400px">
 </p>
+
+
 
 ---
 
