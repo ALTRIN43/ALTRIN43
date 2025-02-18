@@ -29,8 +29,6 @@
    
 ## 🚀 **GitHub Stats & Activity**
 
-## 🚀 **GitHub Stats & Activity**
-
 <p align="center">
   <a href="https://github.com/ALTRIN43">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ALTRIN43&show_icons=true&theme=radical&count_private=true"/>
