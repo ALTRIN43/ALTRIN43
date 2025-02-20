@@ -20,16 +20,7 @@
 💡 Love working on **real-world projects**, and solving complex data problems!  
 
 ---
-
-## 🏆 **Recent Achievements**  
-
-✅ **Completed "Data Analysis with Python" by IBM on Coursera**  
-✅ **Extracted, Cleaned, Visualized Data & Built Refinement & Evaluation Models**  
-✅ **Completed Peer-Graded Assignments & Earned a Digital Badge from Credly** 🏅  
-✅ **Enrolled a Competition in Kaggle Platform** 🔥  
-
----
-   
+  
 ## 🚀 **GitHub Stats & Activity**
 
 <p align="center">
