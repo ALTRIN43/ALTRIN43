@@ -3,9 +3,7 @@
 
 ---
   
-<p align="center">
-  <img src="https://i.giphy.com/LR5ZBwZHv02lmpVoEU.webp" alt="Data Science GIF" width="400px">
-</p>
+![Data Science GIF](assets/LR5ZBwZHv02lmpVoEU.webp)
 
 
 
