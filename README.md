@@ -12,7 +12,7 @@
 📈 Completed multiple **IBM Coursera Certifications** in Data Science & Analytics  
 🎯 **Aspiring Data Scientist** | Currently sharpening my **Python, SQL, R, and Machine Learning** skills  
 💡 Love working on **real-world projects**, and solving complex data problems!<br> 
-📈 currently learning **Cloud Practitioner and Data Engineer** course from aws🚀
+📈 currently learning **Cloud Practitioner and Data Engineer** course from aws
 
 ---
   
