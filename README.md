@@ -2,10 +2,6 @@
 <h3 align="center">🚀 AI Enthusiast | Data Analyst | Future Data Scientist | Passionate About Machine Learning & Data Science 🚀 </h3>
 
 ---
-  
-![Data Science GIF](assets/LR5ZBwZHv02lmpVoEU.webp)
-
-
 
 
 ---
