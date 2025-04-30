@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Altrin Jesuraj</h1>
+<h1 align="center">Hi there! 👋 I'm ALTRIN JESURAJ</h1>
 <h3 align="center">🚀 AI Enthusiast | Data Analyst | Future Data Scientist | Passionate About Machine Learning & Data Science 🚀 </h3>
 
 ---
