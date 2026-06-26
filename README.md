@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm ALTRIN J</h1>
-<h3 align="center">🚀 AI Enthusiast | Data Analyst | Future Data Scientist | Passionate About Machine Learning & Data Science 🚀 </h3>
+<h3 align="center">🚀 AI Enthusiast |  Passionate About Machine Learning & Data Science 🚀 </h3>
 
 ---
 
@@ -9,9 +9,9 @@
 ## 🔥 **About Me**  
 🎓 Pursuing **BTech in Artificial Intelligence** at **SRM University, Chennai**  
 📊 Passionate about **Software Development, Data Science, Machine Learning, and AI for Social Good**  
-📈 AWS Certified AI Practitioner and AWS Certified Cloud Practitioner
-📈 Salesforce Certified Agentforce Specialist
-🎯 **Aspiring Data Scientist** | Currently sharpening my **Python, SQL, R, and Machine Learning** skills  
+📈 AWS Certified AI Practitioner and AWS Certified Cloud Practitioner<br>
+📈 Salesforce Certified Agentforce Specialist<br>
+🎯 **Aspiring Data Scientist** | Currently sharpening my **Python, SQL, R, and Machine Learning** skills <br> 
 💡 Love working on **real-world projects**, and solving complex data problems!<br>
 
 ---
@@ -50,7 +50,7 @@
 
 ## 📫 **Connect with Me** 
 📧 **Email:** altrinjesuraj@gmail.com 
-<!--🌍 **Portfolio:** (Add your portfolio link here if available)-->
+🌍 **Portfolio:** [My_Portfolio](https://altrin-jesuraj.netlify.app/)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/altrinjesuraj">
@@ -59,7 +59,7 @@
 </p>
 
 ---
-**"Giving life to data"** 🔥  
+
 
 
 <!---
