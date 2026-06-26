@@ -1,22 +1,25 @@
 <h1 align="center">Hi there! I'm ALTRIN J</h1>
-<h3 align="center">🚀 AI Enthusiast |  Passionate About Machine Learning & Data Science 🚀 </h3>
+<h3 align="center">AI Enthusiast | Backend Developer | Building Scalable AI-Powered Applications</h3>
 
 ---
 
 
 ---
 
-## 🔥 **About Me**  
-🎓 Pursuing **BTech in Artificial Intelligence** at **SRM University, Chennai**  
-📊 Passionate about **Software Development, Data Science, Machine Learning, and AI for Social Good**  
-📈 AWS Certified AI Practitioner and AWS Certified Cloud Practitioner<br>
-📈 Salesforce Certified Agentforce Specialist<br>
-🎯 **Aspiring Data Scientist** | Currently sharpening my **Python, SQL, R, and Machine Learning** skills <br> 
-💡 Love working on **real-world projects**, and solving complex data problems!<br>
+## **About Me**  
+Pursuing B.Tech in Artificial Intelligence at SRM Institute of Science and Technology, Chennai.
+
+Passionate about Backend Development, Artificial Intelligence, and Machine Learning.
+
+AWS Certified AI Practitioner • AWS Certified Cloud Practitioner • Salesforce Certified Agentforce Specialist.
+
+Experienced in building applications using Python, Django, FastAPI, Flask, REST APIs, GraphQL, SQL, and Git.
+
+Enjoy building scalable backend systems and AI-powered applications that solve real-world problems.
 
 ---
   
-## 🚀 **GitHub Stats & Activity**
+## **GitHub Stats & Activity**
 
 <p align="center">
   <a href="https://github.com/ALTRIN43">
@@ -41,20 +44,27 @@
 
 ---
 
-## 🔧 **Tech Stack & Tools**  
+## **Tech Stack & Tools**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,r,java,sqlite,mysql,tensorflow,pandas,numpy,scikit-learn,excel,git,github,vscode" />
 </p>
 
 ---
 
-## 📫 **Connect with Me** 
-📧 **Email:** altrinjesuraj@gmail.com 
-🌍 **Portfolio:** [My_Portfolio](https://altrin-jesuraj.netlify.app/)
+## **Connect with Me** 
+📧 **Email:** altrinjesuraj@gmail.com <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/altrinjesuraj">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://altrin-jesuraj.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/altrin-jesuraj-515043315/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:altrinjesuraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
