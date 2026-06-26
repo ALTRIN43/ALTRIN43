@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm ALTRIN JESURAJ</h1>
+<h1 align="center">Hi there! I'm ALTRIN J</h1>
 <h3 align="center">🚀 AI Enthusiast | Data Analyst | Future Data Scientist | Passionate About Machine Learning & Data Science 🚀 </h3>
 
 ---
@@ -8,8 +8,9 @@
 
 ## 🔥 **About Me**  
 🎓 Pursuing **BTech in Artificial Intelligence** at **SRM University, Chennai**  
-📊 Passionate about **Data Science, Machine Learning, and AI for Social Good**  
-📈 Completed multiple **IBM Coursera Certifications** in Data Science & Analytics  
+📊 Passionate about **Software Development, Data Science, Machine Learning, and AI for Social Good**  
+📈 AWS Certified AI Practitioner and AWS Certified Cloud Practitioner
+📈 Salesforce Certified Agentforce Specialist
 🎯 **Aspiring Data Scientist** | Currently sharpening my **Python, SQL, R, and Machine Learning** skills  
 💡 Love working on **real-world projects**, and solving complex data problems!<br>
 
